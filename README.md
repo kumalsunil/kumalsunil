@@ -4,7 +4,7 @@
 
 - <b>Azure and Azure AI</b>
   - [Create Your Own AI Chatbot](https://github.com/kumalsunil/Create-AI-chatbot)
-  - [How to create virtual machine(VM) using Azure]
+  - [How to create virtual machine(VM) using Azure](https://github.com/kumalsunil/Create--Virtual-Machine-In-Azure)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
