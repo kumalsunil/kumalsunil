@@ -1,6 +1,6 @@
 # Hi, I'm Sunil — an [IT Enthusiast](https://linkedin.com/in/Josh) ☺
 
-## 👨‍💻 Information Technology Projects
+## 👨‍💻 Information Technology Projects:
 
 ---
 
