@@ -1,16 +1,24 @@
-<h1>Hi, I'm Sunil, an <a href="https://linkedin.com/in/Josh">IT Enthusiast</a>☺</h1>
+# Hi, I'm Sunil — an [IT Enthusiast](https://linkedin.com/in/Josh) ☺
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 👨‍💻 Information Technology Projects
 
-- <b>Azure and Azure AI</b>
-  - [Create Your Own AI Chatbot](https://github.com/kumalsunil/Create-AI-chatbot)
-  - [How to create virtual machine (VM) using Azure](https://github.com/kumalsunil/Create--Virtual-Machine-In-Azure)
-  
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+---
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+### 🌐 Azure & Azure AI
+- **[Create Your Own AI Chatbot](https://github.com/kumalsunil/Create-AI-chatbot)**
+- **[Create a Virtual Machine (VM) in Azure](https://github.com/kumalsunil/Create--Virtual-Machine-In-Azure)**
+
+---
+
+### 🎫 osTicket (Help Desk Ticketing System)
+- **[osTicket: Prerequisites & Installation](https://github.com/joshmadakorcc/osticket-prereqs)**
+- **[osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)**
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)**
+
+---
+
+### ☁️ Microsoft Azure
+- **[Configuring On-Prem Active Directory in Azure VMs](https://github.com/joshmadakorcc/configure-ad)**
+- **[Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)**
+
+---
