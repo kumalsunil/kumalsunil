@@ -12,7 +12,7 @@
 
 ### 🎫 osTicket (Help Desk Ticketing System)
 - **[osTicket: Prerequisites & Installation](https://github.com/kumalsunil/osTicket-prereqs)**
-- **[osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)**
+- **[osTicket: Post-Installation Configuration](https://github.com/kumalsunil/osTicket-Post-Install-Configuration)**
 - **[osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)**
 
 ---
