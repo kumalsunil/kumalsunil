@@ -19,7 +19,7 @@
 
 ### ☁️ Active Directory
 - **[Setting Up AD Infrastucture In Azure](https://github.com/kumalsunil/Setting-Up-AD-Infrastructure-In-Azure)**
-- **[Deploying AD](https://github.com/joshmadakorcc/azure-network-protocols)**
+- **[Deploying AD](https://github.com/kumalsunil/Deploying-Active-Directory)**
 - **[Group Policy And Managing Accounts]()**
 
 ---
