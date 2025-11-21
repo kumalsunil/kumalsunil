@@ -18,7 +18,7 @@
 ---
 
 ### ☁️ Active Directory
-- **[How To Set up Active Directory](https://github.com/joshmadakorcc/configure-ad)**
+- **[Setting Up AD Infrastucture In Azure](https://github.com/kumalsunil/Setting-Up-AD-Infrastructure-In-Azure)**
 - **[Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)**
 
 ---
