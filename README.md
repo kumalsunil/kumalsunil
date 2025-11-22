@@ -1,4 +1,4 @@
-# Hi, I'm Sunil — an IT Enthusiast ☺
+# Hi, I'm Sunil — an [IT Enthusiast](https://www.linkedin.com/in/sunil-kumal-9a5803345/) ☺
 
 ## 👨‍💻 Information Technology Projects
 
