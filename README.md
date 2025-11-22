@@ -26,9 +26,7 @@
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Sunil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sunil | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br clear="left"/>
 
 [linkedin]: https://www.linkedin.com/in/sunil-kumal-9a5803345/
-[gmail]: mailto:kumalsunil00@gmail.com
